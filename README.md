@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">Buttons</h1>
+<h1 align="center">Input Components</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://hiteshbuttton.netlify.app/">
+    <a href="https://hitesh-inputs.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://hiteshbuttton.netlify.app/">
+    <a href="https://hitesh-inputs.netlify.app//">
       Solution
     </a>
     <span> | </span>
@@ -35,15 +35,15 @@
 
 ## Overview
 
-<img width="1439" alt="Screenshot 2021-06-09 at 3 54 11 PM" src="https://user-images.githubusercontent.com/58116679/121374147-4a435400-c95d-11eb-9f48-96c5d5d723a7.png">
+<img width="1440" alt="Screenshot 2021-06-11 at 10 06 11 PM" src="https://user-images.githubusercontent.com/58116679/121720962-5536e980-cb01-11eb-98a5-259ce0faab54.png">
 
-<img width="319" alt="Screenshot 2021-06-09 at 3 55 27 PM" src="https://user-images.githubusercontent.com/58116679/121374170-4f080800-c95d-11eb-8e86-00a25b089a69.png">
+<img width="176" alt="Screenshot 2021-06-11 at 10 06 35 PM" src="https://user-images.githubusercontent.com/58116679/121720972-59fb9d80-cb01-11eb-823b-b1b15fa052fd.png">
 
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
-> https://hiteshbuttton.netlify.app/
+> https://hitesh-inputs.netlify.app/
 
 ### Built With
 
@@ -59,5 +59,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- [Website](https://hiteshbuttton.netlify.app/)
+- [Website](https://hitesh-inputs.netlify.app/)
 - GitHub [HITESH](https://github.com/hitesh-coder)
