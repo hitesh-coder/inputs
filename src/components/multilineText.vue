@@ -3,10 +3,12 @@
     <div class="multilineText d-flex">
       <div class="d-flex flex-column">
         <div class="h3">&lt;Input multilineText /&gt;</div>
-        <label for="multilineText1" class="mb-0">
-          label
-        </label>
-        <textarea placeholder="placeholder" id="multilineText1" class="p-2 rounded"></textarea>
+        <label for="multilineText1" class="mb-0"> label </label>
+        <textarea
+          placeholder="placeholder"
+          id="multilineText1"
+          class="p-2 rounded"
+        ></textarea>
       </div>
     </div>
   </div>
@@ -14,7 +16,7 @@
 
 <script>
 export default {
-    components: {},
+  components: {},
   name: "multilineText",
 };
 </script>
@@ -23,14 +25,14 @@ export default {
 <style scoped lang="scss">
 @import "../assets/scss/bootstrap.scss";
 
-input{
+input {
   border-color: $gray-400;
   border-width: 1px !important;
   border-style: solid;
   outline: none;
 }
 
-.flex-column{
+.flex-column {
   margin-right: 2rem;
 }
 </style>

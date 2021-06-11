@@ -3,10 +3,13 @@
     <div class="fullwidth d-flex">
       <div class="d-flex flex-column">
         <div class="h3">&lt;Input fullwidth /&gt;</div>
-        <label for="fullwidth1" class="mb-0">
-          label
-        </label>
-        <input type="text" placeholder="placeholder" id="fullwidth1" class="p-2 rounded">
+        <label for="fullwidth1" class="mb-0"> label </label>
+        <input
+          type="text"
+          placeholder="placeholder"
+          id="fullwidth1"
+          class="p-2 rounded"
+        />
       </div>
     </div>
   </div>
@@ -22,7 +25,7 @@ export default {
 <style scoped lang="scss">
 @import "../assets/scss/bootstrap.scss";
 
-input{
+input {
   border-color: $gray-400;
   border-width: 1px !important;
   border-style: solid;
@@ -30,7 +33,7 @@ input{
   width: 90vw;
 }
 
-.flex-column{
+.flex-column {
   margin-right: 2rem;
 }
 </style>
